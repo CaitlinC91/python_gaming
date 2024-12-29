@@ -1,2 +1,5 @@
+from turtle import Screen
+
+
 def draw():
-    screen.draw.text("hello", topleft =(10,10))
+    Screen.draw.text("hello", topleft =(10,10))
